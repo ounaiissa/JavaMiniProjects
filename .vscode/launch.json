@@ -1,0 +1,56 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch hourglass",
+      "request": "launch",
+      "mainClass": "hourglass",
+      "projectName": "OOP_3cde22fa"
+    },
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Launch Hello",
+      "request": "launch",
+      "mainClass": "Hello",
+      "projectName": "OOP_3cde22fa"
+    },
+    {
+      "type": "java",
+      "name": "Launch minmax",
+      "request": "launch",
+      "mainClass": "minmax",
+      "projectName": "OOP_3cde22fa"
+    },
+    {
+      "type": "java",
+      "name": "Launch pythagore",
+      "request": "launch",
+      "mainClass": "pythagore",
+      "projectName": "OOP_3cde22fa"
+    },
+    {
+      "type": "java",
+      "name": "Launch somme",
+      "request": "launch",
+      "mainClass": "somme",
+      "projectName": "OOP_3cde22fa"
+    },
+    {
+      "type": "java",
+      "name": "Launch starpyramid",
+      "request": "launch",
+      "mainClass": "starpyramid",
+      "projectName": "OOP_3cde22fa"
+    }
+  ]
+}
