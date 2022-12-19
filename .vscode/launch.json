@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch menu",
+      "request": "launch",
+      "mainClass": "menu",
+      "projectName": "javaminiProjects_e05a0c9"
+    },
+    {
+      "type": "java",
       "name": "Launch hourglass",
       "request": "launch",
       "mainClass": "hourglass",
